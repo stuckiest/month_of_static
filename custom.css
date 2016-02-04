@@ -1,0 +1,155 @@
+
+/*styles for index page*/
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: teal;
+	text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.black{
+	color: black;
+}
+
+.white{
+	color: white;
+}
+
+#navmargin{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#cogbackground { 
+    background-image: url('Clock_Cogs_BW.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.heartContainer{
+	width:50%;
+	margin: auto;
+	padding: 2%;
+}
+
+.artContainer{
+	width:65%;
+	margin: auto;
+	padding: 4%;
+}
+
+#site_info{
+ background-color: rgba(255, 0, 0, 0.65);
+ margin: auto;
+ color: black;
+}
+
+.abel{
+	font-family: "Abel", sans-serif;
+}
+
+.elsie{
+	font-family: 'Elsie', cursive;
+}
+
+.syncopate{
+	font-family: 'Syncopate', sans-serif;
+}
+
+.font16{
+	font-size: 1.6em;
+}
+
+.background-black{
+	background-color: black;
+}
+
+.background-purple{
+	background-color: #561C39;
+}
+
+.footerpadding{
+	padding:1%;
+}
+.pmargin{
+	margin: 4%;
+	padding: 1%;
+}
+
+.site-header {
+    background: #fff;
+    text-align: center;
+    background-image: url('Clock_Cogs_BW.jpg');
+    background-position: top center;
+    color: #000;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.feb4site-header {
+		display: block;
+		width: 100%;
+    background: #fff;
+    text-align: center;
+    background-image: url("Grand_Teton_winter.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 90vh;
+    height: auto;
+}
+
+.feb4navbar{
+	background-color: gray;
+	height: 30px;
+}
+
+.footer{
+	background-color: black;
+	color: white;
+	height: 50px;
+}
+
+.footerwhitetext{
+	color: white;
+}
+
+.feb4sidebar{
+	background-color: #cfd8dc;
+}
+
+.aligncenter {
+    display: block;
+    margin: 10px auto;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+
+.row-eq-height{
+	display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+.row-eq-height{
+	display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+
