@@ -24,13 +24,17 @@ img {
 	color: white;
 }
 
+.gray{
+  color: gray;
+}
+
 #navmargin{
 	margin-left: 15%;
 	margin-right: 15%;
 }
 
 #cogbackground { 
-    background-image: url('Clock_Cogs_BW.jpg');
+    background-image: url('pix/Clock_Cogs_BW.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -88,7 +92,7 @@ img {
 .site-header {
     background: #fff;
     text-align: center;
-    background-image: url('Clock_Cogs_BW.jpg');
+    background-image: url("Clock_Cogs_BW.jpg");
     background-position: top center;
     color: #000;
     background-repeat: no-repeat;
@@ -111,8 +115,7 @@ img {
 }
 
 .feb4navbar{
-	background-color: gray;
-	height: 30px;
+  height: 30px;
 }
 
 .footer{
@@ -123,10 +126,6 @@ img {
 
 .footerwhitetext{
 	color: white;
-}
-
-.feb4sidebar{
-	background-color: #cfd8dc;
 }
 
 .aligncenter {
